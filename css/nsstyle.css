@@ -1,0 +1,49 @@
+/* 
+    Document   : sv admin styles
+    Created on : 30-Dec-2010, 16:55:34
+    Author     : 2096 @ http://solvercircle.com
+    Description: Adds custom styling to the Scvideo admin area
+*/
+
+.nws_icon{
+	width:36px;
+	height:36px;
+	background:url(../images/world.png);
+	}
+
+.wrap .edit_btn{
+	width:22px;
+	height:24px;
+	background:url(../images/edit.png);
+	border:none;
+	text-indent: -1000em;
+	cursor:pointer;
+	}
+.wrap .delete_btn{
+	width:22px;
+	height:24px;
+	background:url(../images/delete.png);
+	border:none;
+	text-indent: -1000em;
+	cursor:pointer;
+	}
+.wrap .sts_active{
+	width:22px;
+	height:24px;
+	background:url(../images/tick_active.png);
+	}
+.wrap .sts_inactive{
+	width:22px;
+	height:24px;
+	background:url(../images/tick_inactive.png);
+	cursor:pointer;
+	border:none;
+	text-indent: -1000em;
+	}
+.wrap .sts_inactive:hover{
+	width:22px;
+	height:24px;
+	background:url(../images/tick_active.png);
+	border:none;
+	text-indent: -1000em;
+	}
